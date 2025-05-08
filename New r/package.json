@@ -1,0 +1,16 @@
+{
+  "name": "new-r",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js"
+  },
+  "author": "Vikash kumar",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node": "^24.0.0",
+    "nodemon": "^3.1.10"
+  }
+}
